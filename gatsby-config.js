@@ -12,8 +12,8 @@ module.exports = {
     siteHeadline: `Trial Team 3D`,
     siteUrl: `https://jodie.lekoarts.de`,
     siteDescription: `Trial Team 3D`,
-    siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteLanguage: `it`,
+    siteImage: `/logo3d.png`,
     author: `Marco Pedrinazzi`,
   },
   plugins: [

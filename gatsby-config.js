@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Trial Team 3D`,
     siteTitleAlt: `Trial Team 3D`,
     siteHeadline: `Trial Team 3D`,
-    siteUrl: `https://jodie.lekoarts.de`,
+    siteUrl: `https://trialteam3d.gatsbyjs.io`,
     siteDescription: `Trial Team 3D`,
     siteLanguage: `it`,
     siteImage: `/logo3d.png`,
@@ -22,7 +22,7 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Projects`, slug: `/projects` },
+          { name: `Team`, slug: `/projects` },
           { name: `Art`, slug: `/art` },
           { name: `About`, slug: `/about` },
         ],

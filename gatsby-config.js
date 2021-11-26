@@ -24,8 +24,8 @@ module.exports = {
         navigation: [
           { name: `About`, slug: `/about` },
           { name: `Team`, slug: `/projects` },
-          { name: `Sponsor`, slug: `/about` },
-          { name: `Photos`, slug: `/art` }
+          { name: `Sponsor`, slug: `/sponsor` },
+          { name: `Photos`, slug: `/gallery` }
         ],
       },
     },

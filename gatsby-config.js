@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://trialteam3d.gatsbyjs.io`,
     siteDescription: `Trial Team 3D`,
     siteLanguage: `it`,
-    siteImage: `/logo3d.png`,
+    siteImage: `/banner.jpg`,
     author: `Marco Pedrinazzi`,
   },
   plugins: [

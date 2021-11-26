@@ -2,7 +2,7 @@ import * as React from "react"
 
 const Logo = () => (
   <svg viewBox="0 0 150 150">
-    <title>LekoArts</title>
+    <title>Trial Team 3D</title>
     <path
       fillRule="evenodd"
       clipRule="evenodd"

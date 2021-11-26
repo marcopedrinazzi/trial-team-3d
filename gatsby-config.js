@@ -73,6 +73,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-redirect-to`,
     `gatsby-plugin-gatsby-cloud`,
     shouldAnalyseBundle && {
       resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,

@@ -12,7 +12,7 @@ import * as React from "react"
 )*/
 
 const Logo = () => (
-  <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 793.70081 1122.5197" height="1122.5197" width="793.70081" xml:space="preserve" id="svg2" version="1.1">
+  <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 793.70081 1122.5197" height="1122.5197" width="793.70081" id="svg2" version="1.1">
   <metadata id="metadata8">
     <rdf:RDF>
       <cc:Work rdf:about="">

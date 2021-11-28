@@ -23,7 +23,7 @@ module.exports = {
       options: {
         navigation: [
           { name: `About`, slug: `/about` },
-          { name: `Team`, slug: `/projects` },
+          { name: `Team`, slug: `/team` },
           { name: `Sponsor`, slug: `/sponsor` },
           { name: `Photos`, slug: `/gallery` }
         ],

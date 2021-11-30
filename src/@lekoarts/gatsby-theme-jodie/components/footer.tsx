@@ -1,10 +1,10 @@
 /** @jsx jsx */
 import { jsx, Link, useThemeUI } from "theme-ui"
 import { readableColor } from "polished"
-//import useSiteMetadata from "../hooks/use-site-metadata"
+import useSiteMetadata from "@lekoarts/gatsby-theme-jodie/src/hooks/use-site-metadata"
 
 const Footer = ({ bg }: { bg: string }) => {
-  //const { siteTitle } = useSiteMetadata()
+  const { siteTitle } = useSiteMetadata()
   const {
     theme: { rawColors },
   } = useThemeUI()
@@ -35,7 +35,10 @@ const Footer = ({ bg }: { bg: string }) => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by Trial Team 3D.
+        &copy; {new Date().getFullYear()} by {siteTitle}.
+      </div>
+      <div>
+        Developed by Marco Pedrinazzi.
       </div>
       <div>
         Theme by LekoArts.

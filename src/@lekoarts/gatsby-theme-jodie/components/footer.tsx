@@ -1,10 +1,10 @@
 /** @jsx jsx */
 import { jsx, Link, useThemeUI } from "theme-ui"
 import { readableColor } from "polished"
-import useSiteMetadata from "../hooks/use-site-metadata"
+//import useSiteMetadata from "../hooks/use-site-metadata"
 
 const Footer = ({ bg }: { bg: string }) => {
-  const { siteTitle } = useSiteMetadata()
+  //const { siteTitle } = useSiteMetadata()
   const {
     theme: { rawColors },
   } = useThemeUI()
@@ -35,14 +35,14 @@ const Footer = ({ bg }: { bg: string }) => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}.
+        &copy; {new Date().getFullYear()}.
       </div>
       <div>
         <Link
           aria-label="Link to the theme's GitHub repository"
           href="https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-jodie"
         >
-          Themee
+          Theme
         </Link>
         {` `}
         by

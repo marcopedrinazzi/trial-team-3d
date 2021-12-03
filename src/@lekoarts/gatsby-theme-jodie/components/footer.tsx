@@ -35,10 +35,10 @@ const Footer = ({ bg }: { bg: string }) => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by Trial Team 3D.
+        &copy; {new Date().getFullYear()} Trial Team 3D.
       </div>
       <div>
-        Developed by Marco Pedrinazzi.
+        Sviluppato da Marco Pedrinazzi.
       </div>
     </footer>
   )

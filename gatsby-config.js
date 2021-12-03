@@ -22,10 +22,10 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `About`, slug: `/about` },
+          { name: `Chi siamo`, slug: `/chi-siamo` },
           { name: `Team`, slug: `/team` },
           { name: `Sponsor`, slug: `/sponsor` },
-          { name: `Photos`, slug: `/gallery` }
+          { name: `Foto`, slug: `/foto` }
         ],
       },
     },
